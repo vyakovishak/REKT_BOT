@@ -5,7 +5,7 @@ from data.config import BOT_TOKEN
 from utils.Blockchain.ConnectToChain import BlockChainConnect
 from utils.db_api.sqlDatabase import Database
 
-bot: Bot = Bot(token="5756585155:AAGqrhP0UVb4oBRPBxoXs_hllXNrbqFXTeo", parse_mode=types.ParseMode.HTML)
+bot: Bot = Bot(token="API_Key", parse_mode=types.ParseMode.HTML)
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
 db = Database()
