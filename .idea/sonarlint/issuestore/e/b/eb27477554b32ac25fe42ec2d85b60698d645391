@@ -1,0 +1,19 @@
+
+vpython:S4144Š"]Update this function so that its implementation is not identical to answer_photo on line 427.(¯µ¿¦
+{python:S4144Ó"]Update this function so that its implementation is not identical to answer_audio on line 500.(´”Áœüÿÿÿÿ
+python:S4144´"aUpdate this function so that its implementation is not identical to answer_animation on line 597.(Ã³²¿øÿÿÿÿ
+{python:S4144ñ"]Update this function so that its implementation is not identical to answer_video on line 786.(•¬İúÿÿÿÿ
+upython:S4144Ö"]Update this function so that its implementation is not identical to answer_voice on line 887.(ÖÁÒ
+‚python:S4144ñ"dUpdate this function so that its implementation is not identical to answer_media_group on line 1042.(¿œÓûÿÿÿÿ
+|python:S4144ï"^Update this function so that its implementation is not identical to answer_venue on line 1174.(¤¿îşÿÿÿÿ
+~python:S4144Î"`Update this function so that its implementation is not identical to answer_contact on line 1269.(³ÿ†­şÿÿÿÿ
+{python:S4144"]Update this function so that its implementation is not identical to answer_poll on line 1391.(×çùúÿÿÿÿ
+ypython:S4144"`Update this function so that its implementation is not identical to answer_sticker on line 1335.(Ë´æò
+vpython:S4144Å"]Update this function so that its implementation is not identical to answer_dice on line 1516.(¸˜ş’
+mpython:S3776‚"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(¤Úƒê
+npython:S107“"QMethod "answer_video" has 14 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+mpython:S107ğ
+"PMethod "answer_poll" has 17 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+mpython:S107ò"PMethod "reply_video" has 14 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+lpython:S107‘"OMethod "reply_poll" has 17 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+rpython:S3776©"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(šûõúÿÿÿÿ
